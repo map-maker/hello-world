@@ -1,4 +1,4 @@
 # hello-world
-My first GitHub repository
+My first GitHub repository - revisited during lockdown
 
-GIS and datbase developer
+GeoSpatial Data Wrangler
